@@ -9,3 +9,8 @@ body{
     min-width: 375px;
     max-width: 1440px;
 }
+img{
+    height: 250px;
+    width: 250px;
+    border-radius: 10px;
+}
