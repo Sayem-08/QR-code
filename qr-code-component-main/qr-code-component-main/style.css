@@ -45,3 +45,7 @@ p{
     padding-left: 20px;
     padding-right: 20px;
 }
+.attribution p{
+    display: inline;
+    font-size: 15px;
+}
