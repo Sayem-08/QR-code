@@ -17,19 +17,19 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 This project is a simple QR code component built as part of a Frontend Mentor challenge. The goal was to create a visually appealing card that displays a QR code, a heading, and a short description. This project demonstrates basic HTML and CSS skills, including layout and typography.
 
 ### Links
-- Solution URL: [GitHub Repository]()
-- Live Site URL: [Live Demo]()
+- Solution URL: [GitHub Repository](https://github.com/Sayem-08/QR-code)
+- Live Site URL: [Live Demo](https://sayem-08.github.io/QR-code/) 
 
 ## Built with
 - Semantic HTML5 markup
 - CSS custom properties
 
 ## What I learned
-This project helped me practice my HTML and CSS skills, particularly in creating a simple layout and styling text. I learned how to use CSS properties like and `border-radius` for rounded corners.
+This project helped me practice my HTML and CSS skills, particularly in creating a simple layout and styling text. I learned how to use CSS properties like `border-radius` for rounded corners.
 
 ## Continued development
 I plan to continue improving my CSS skills by experimenting with more complex layouts and responsive design techniques. I also want to explore CSS animations and transitions to enhance user experience.After that I want to focus on learning JavaScript to add interactivity to my projects.
 
 ## Author
-- Frontend Mentor - []()
-- Twitter - []()
+- Frontend Mentor - [Sayem-08](https://www.frontendmentor.io/profile/Sayem-08)
+- Twitter - [@Muntaki80016052](https://x.com/Muntaki80016052)
