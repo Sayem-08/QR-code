@@ -13,8 +13,8 @@ body{
     min-height: 300px;
 }
 img{
-    height: 320px;
-    width: 320px;
+    height: 290px;
+    width: 290px;
     border-radius: 10px;
 }
 .card{
@@ -22,13 +22,14 @@ img{
     margin-top: 40px;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 50px;
+    margin-bottom: 60px;
     padding-top: 20px;
     padding-bottom: 30px;
     border-radius: 20px;
-    width: 360px;
-    max-width:360px;
-    min-width: 250px;
+    width: 320px;
+    max-width:340px;
+    min-width: 300px;
+    height: auto;
 }
 h1{
     margin-top: 30px;
@@ -37,4 +38,10 @@ h1{
     font-size: 25px;
     display: inline-block;
     padding: 0 10px 0 10px;  
+}
+p{
+    font-weight: 400;
+    font-size: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
